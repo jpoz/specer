@@ -4,22 +4,22 @@ describe String do
 
   it "should run" do
     sleep 1
-    true.should be_true
+    true.should be_false
   end
   
   it "should run" do
     sleep 1
-    true.should be_true
+    true.should be_false
   end
   
   it "should run" do
     sleep 1
-    true.should be_true
+    true.should be_false
   end
   
   it "should run" do
     sleep 1
-    true.should be_true
+    true.should be_false
   end
   
 end
